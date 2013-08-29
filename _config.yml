@@ -3,8 +3,11 @@ description: "Jekyll experiments"
 
 url: "http://mbirth.github.io"
 
-paginate: 10
+#paginate: 10
 
 markdown: redcarpet
-permalink: pretty
+#permalink: pretty
 pygments: true
+
+safe: true
+lsi: false
