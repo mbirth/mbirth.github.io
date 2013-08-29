@@ -1,0 +1,9 @@
+name: "mbirth.github.io"
+description: "Jekyll experiments"
+
+url: "http://mbirth.github.io"
+
+paginate: 10
+
+permalink: pretty
+pygments: true
